@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700;1,900&display=swap');
 
 html, body {
-    background: rgb(249,96,96);
-    background: linear-gradient(108deg, rgba(249,96,96,1) 0%, rgba(249,137,137,1) 50%);
+    background: rgb(255,217,61);
+    background: linear-gradient(108deg, rgba(255,217,61,1) 0%, rgba(137,218,249,1) 50%);
 }
 
 * {

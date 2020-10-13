@@ -12,7 +12,54 @@ html, body {
 }
 
 .wrapper {
+    width: 700px;
     margin: 20px auto;
     font-family: 'Lato', serif;
+    font-size: 0;
+    display: table;
     box-shadow: 3px 5px 5px black;
+}
+
+.leftside {
+    width: 500px;
+    padding-left: 15px; 
+    padding-top: 9px; 
+    padding-right: 15px;
+    display: ta;
+    background-color: #ffffff;
+}
+
+.rightside {
+    width: 200px;
+    padding-left: 15px; 
+    padding-top: 15px; 
+    padding-right: 15px;
+    display: inline-block;
+    background: #153d70; 
+    color: #ffffff;
+}
+
+.normaltext {
+    font-size: 12px;
+}
+
+.CVname {
+    font-size: 28px; 
+    font-weight: 700;
+}
+
+.leftsideheading {
+    font-size: 18px; 
+    font-weight: 900; 
+    color: #153d70; 
+    vertical-align: 5px;
+}
+
+.rightsideheading {
+    padding-left: 15px; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    background: #0e2e55;
+    font-size: 18px; 
+    font-weight: 700;
 }
